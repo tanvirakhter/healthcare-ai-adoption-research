@@ -61,3 +61,7 @@ interview-guide/      Interview protocols
 frameworks/           Theoretical models under consideration
 ethics/               Ethics applications, consent forms, data management plan
 ```
+
+## License and citation
+
+This work by Tanvir Akhter Shakib is licensed under [CC BY 4.0](LICENSE) - share and adapt freely with attribution. If you use or build on these research materials, please cite using the metadata in [CITATION.cff](CITATION.cff).

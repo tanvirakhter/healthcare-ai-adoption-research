@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or build on these research materials, please cite them as below."
+title: "Trust, Explainability, and Adoption of Generative AI Systems in Healthcare Organisations: Research Materials"
+type: dataset
+authors:
+  - family-names: "Shakib"
+    given-names: "Tanvir Akhter"
+license: CC-BY-4.0
+repository-code: "https://github.com/tanvirakhter/healthcare-ai-adoption-research"
+url: "https://github.com/tanvirakhter/healthcare-ai-adoption-research"
+keywords:
+  - healthcare AI
+  - trust in AI
+  - explainable AI
+  - technology adoption
+  - generative AI
+date-released: 2026-06-10
+version: "0.1"
