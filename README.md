@@ -60,7 +60,12 @@ survey-design/        Survey instrument drafts and construct mapping
 interview-guide/      Interview protocols
 frameworks/           Theoretical models under consideration
 ethics/               Ethics applications, consent forms, data management plan
+analysis/             Quantitative analysis plan, a priori power analysis (script + memo)
 ```
+
+The a priori power analysis (`analysis/power_analysis.py`) derives the survey's target
+n ≥ 200 from the regression, SEM-feasibility, and subgroup scenarios; its assumptions are
+documented in `analysis/sample-size-memo.md` and will be revisited after the pilot.
 
 ## License and citation
 
